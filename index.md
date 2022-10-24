@@ -14,7 +14,7 @@ humantime: "9:00 am - 5:00 pm BST (8:00 am - 4:00 pm UTC)"    # human-readable t
 startdate: 2022-10-27      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-10-28        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Ed Bennett", "Michael Pei", "Julian Lenz", "Tianyi Pan"] # boxed, comma-separated list of instructors' names as strings.
-#helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: []    # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["e.j.bennett@swansea.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions.
 collaborative_notes:  https://pad.carpentries.org/2022-10-27-swansea # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document.
 ---
